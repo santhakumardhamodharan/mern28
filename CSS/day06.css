@@ -1,0 +1,23 @@
+.container{
+    background-color: blue;
+    height: 200px;
+    background-image: url(../Best\ Cars.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:center;
+    opacity:1;  
+}
+
+.box{
+    width: 600px;
+    height: 200px;
+    background-color:red;
+    padding: 20px; 
+    /* border-width:5px; */
+    /* border-color: black; */
+    /* border-style: solid; */
+border: 5px solid green;
+border-radius: 50px;
+margin: 30px;
+
+}
